@@ -1,0 +1,2 @@
+git clone https://github.com/pivpn/pivpn.git
+sudo bash pivpn/auto_install/install.sh
